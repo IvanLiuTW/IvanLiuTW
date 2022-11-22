@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IvanLiuTW
+- 👋 Hi, I’m @IvanLiu
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Python and R.
 - 💞️ I’m still learning to collaborate on something related to data science
